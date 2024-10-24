@@ -1,4 +1,4 @@
-# Automated Behaviour Planning for Fruit Tree Pruning via Redundant Robot Manipulators
+Automated Behaviour Planning for Fruit Tree Pruning via Redundant Robot Manipulators
 
 <br>
 
